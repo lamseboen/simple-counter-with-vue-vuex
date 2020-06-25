@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import createPersistedState from 'vuex-persistedstate'
-
+// ini comment
 Vue.use(Vuex)
 
 const store = new Vuex.Store({
